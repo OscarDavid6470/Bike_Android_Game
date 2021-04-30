@@ -1,0 +1,40 @@
+
+moto.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+moto
+  rotate: false
+  xy: 1, 146
+  size: 718, 354
+  orig: 718, 354
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 721, 249
+  size: 250, 251
+  orig: 250, 251
+  offset: 0, 0
+  index: -1
+backdamper
+  rotate: false
+  xy: 1, 106
+  size: 201, 38
+  orig: 201, 38
+  offset: 0, 0
+  index: -1
+brake
+  rotate: false
+  xy: 1, 1
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+frontdamper
+  rotate: false
+  xy: 721, 107
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+
+grass2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grass4
+  rotate: false
+  xy: 0, 1212
+  size: 2048, 512
+  orig: 2048, 512
+  offset: 0, 0
+  index: -1
+grass5
+  rotate: false
+  xy: 0, 700
+  size: 2048, 512
+  orig: 2048, 512
+  offset: 0, 0
+  index: -1
+grass6
+  rotate: false
+  xy: 0, 350
+  size: 2048, 350
+  orig: 2048, 350
+  offset: 0, 0
+  index: -1
+grass7
+  rotate: false
+  xy: 0, 0
+  size: 2048, 350
+  orig: 2048, 350
+  offset: 0, 0
+  index: -1
